@@ -1,0 +1,29 @@
+Prezado candidato, para realizar o teste de desenvolvimento de site
+utilize as linguagens de programação:
+
+HTML
+BOOTSTRAP
+CSS
+JAVASCRIPT
+PHP
+
+*Outras linguagens não devem ser usadas, usando seu teste sera invalidado.
+* O site deve ser 100% responsivo, e acessivel em celulares
+* O teste tem inicio as 13h e termino as 15h, seja criativo e focado que se sairá muito bem. 
+* Ao finalizar, chame seu avaliador no whats app, e envie o arquivo compactado desenvolvido para avaliação.
+
+
+Utilizar o LAYOUT MODELO  para fazer a criação do seu site,
+bazear 100% nele, e de um toque de criatividade sua.
+
+Img1: essa imagem deve fazer parte de um carrossel, com 3 imagens, busque as outras 2 imagens na internet no mesmo tamanho e formato para compor o seu carrossel. Carrossel deve ser em bootstrap.
+
+
+Icone do youtube: ao clicar nele, deve abrir um MODAL e carregar um vídeo do youtube, escolha o video e insira no site.
+
+CARROSSEL 2 BOOTSTRAP:
+esta parte do site deve ser desenvolvido um carrossel, que ao clicar ele carrege mais itens, (fazer 6 itens).
+
+* DUVIDAS NO PROCESSO, ENTRE EM CONTATO.
+
+BOA SORTE
