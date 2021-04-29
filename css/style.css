@@ -351,3 +351,89 @@ nav{
   transform: scale(0.9);
 }
 
+@media (max-width:768px){
+
+    /*Parte da seção da loja*/
+    .block-store{
+      display: flex;
+      flex-wrap: wrap;
+      max-width: 768px;
+      margin: 0 auto;
+    }
+  
+    .block-store >div{
+      flex: 1 1 300px;
+      margin: 10px;
+    }
+  
+    .block-store-icons {
+      display: flex;
+      flex-wrap: wrap;
+      max-width: 100%;
+      margin: 0 10px 0 auto;
+      align-items: center;
+      text-align: center;
+    }
+  
+    .block-store-icons > div{
+      flex: 1 1 75px;
+      margin: 10px;
+      background: rgb(24, 24, 24);
+      border-radius: 5px;
+      box-shadow: rgb(215, 15, 233) 0px 5px 15px;
+      transition: 0.5s;
+    }
+}
+@media (max-width: 576px){
+    /*menu mobile*/
+    html, body {
+        overflow-x:hidden;
+      } 
+    nav {
+          height: 4em;
+      }
+    .btn-menumobile{
+      display: block !important;
+    }
+    .menu ul {
+          position: relative;
+          top: 6em;
+          height: 3em;
+          line-height: 3em;
+          display: none;
+      }
+  
+      .menu ul li {
+          display: block;
+          background-color: rgb(20, 20, 20);
+          margin: 0;
+          border-top: 1px solid #CCC;
+      }
+  
+      .menu ul li a {
+          font-size: 1em;
+      }
+  
+      .open {
+          display: block !important;
+      }
+    /*icones da loja*/
+  
+    .block-store-icons > div{
+      flex: 1 1 130px;
+      margin: 10px;
+      background: rgb(24, 24, 24);
+      border-radius: 5px;
+      box-shadow: rgb(215, 15, 233) 0px 5px 15px;
+      transition: 0.5s;
+    }
+  
+    .block-store-icons > div h3{
+      font-size: 0.85em;
+    }
+    
+    .block-store-icons > div p{
+      font-size: 0.5em;
+    }
+}
+
